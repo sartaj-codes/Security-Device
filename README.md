@@ -6,6 +6,6 @@ This device can be use for house Protection.<br>
 This device can be used by Parents, for checking the presense of their child in house or not. !!!  
 <br>
 # Technologies Used
-Hardware           : Arduino(Microcontroller) ESP8266(wifi-moudle) Ultrasonic-Sensor(HC-SR04)
-Websites(Accounts) : Twilio, thingsHTTP
+Hardware           : Arduino(Microcontroller) ESP8266(wifi-moudle) Ultrasonic-Sensor(HC-SR04)<br>
+Websites(Accounts) : Twilio, thingsHTTP<br>
 Programming        : Arduino Language
