@@ -7,7 +7,7 @@ This device can be used by Parents, for checking the presense of their child in 
 <br>
 ### Technologies Used
 ```sh
-Hardware           : Arduino(Microcontroller) ESP8266(wifi-moudle) Ultrasonic-Sensor(HC-SR04)<br>
-Websites(Accounts) : Twilio, ThingSpeak 
-Programming        : Arduino Language
+Hardware        : Arduino(Microcontroller) ESP8266(wifi-moudle) Ultrasonic-Sensor(HC-SR04)<br>
+Websites(API's) : Twilio, ThingSpeak 
+Programming     : Arduino Language
 ```
